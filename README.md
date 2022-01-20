@@ -7,7 +7,7 @@
 
 - 🍓 个人博客：https://blog.csdn.net/u013243347
 
-- 🍓 个人网站：yangoogle.com
+- 🍓 个人网站：https://yangoogle.com
 
 - 🍓 掘金专栏：https://juejin.cn/user/694547078454989/posts
 
