@@ -16,9 +16,14 @@
 
 ## My Github Status 🦸
 
-![](https://github-readme-stats.vercel.app/api?username=robbiemie&show_icons=true&show_owner=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbiemie&layout=compact)](https://github.com/robbiemie)
+
+![robbiemie's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbiemie&show_icons=true&theme=radical)
 
 ![](https://activity-graph.herokuapp.com/graph?username=robbiemie&theme=github)
+
+
+
 
 ## Thank you for the visit.
 
