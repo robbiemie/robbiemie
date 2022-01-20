@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**robbiemie/robbiemie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ## 哎呀！我是robbie🐑，被发现了 👋✌️  -->
 
-Here are some ideas to get you started:
+> **在积累中沉淀，在学习中总结，在探索中尝试 ！**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🍓 个人博客：https://blog.csdn.net/u013243347
+
+- 🍓 个人网站：yangoogle.com
+
+- 🍓 掘金专栏：https://juejin.cn/user/694547078454989/posts
+
+
+- 🍉 个人微信：yang657850144
+
+## My Github Status 🦸
+
+![](https://github-readme-stats.vercel.app/api?username=robbiemie&show_icons=true&show_owner=true&count_private=true)
+
+![](https://activity-graph.herokuapp.com/graph?username=robbiemie&theme=github)
+
+## Thank you for the visit.
+
+![](http://profile-counter.glitch.me/robbiemie/count.svg)
+
+Please give a Star if you like.
