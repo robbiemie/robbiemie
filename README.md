@@ -1,8 +1,6 @@
-## 哎呀！我是robbie🐑，被发现了 👋✌️ 
+## Oops! I'm Robbie 🐑, I've been discovered 👋✌️
 
 > **在积累中沉淀，在学习中总结，在探索中尝试 ！**
-
-
 
 - 🍓 个人博客：https://blog.csdn.net/u013243347
 
