@@ -6,7 +6,7 @@
 
 - 📚 website：https://yangoogle.com
 
-- 🍓 juejin：https://juejin.cn/user/694547078454989/posts
+- 🍐 juejin：https://juejin.cn/user/694547078454989/posts
 
 - 🍉 wechat：yang657850144
 
