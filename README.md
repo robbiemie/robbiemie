@@ -2,13 +2,13 @@
 
 > **在积累中沉淀，在学习中总结，在探索中尝试 ！**
 
-- 🍓 个人博客：https://blog.csdn.net/u013243347
+- 🍓 blog：https://blog.csdn.net/u013243347
 
-- 📚 个人网站：https://yangoogle.com
+- 📚 website：https://yangoogle.com
 
-- 🍓 掘金专栏：https://juejin.cn/user/694547078454989/posts
+- 🍓 juejin：https://juejin.cn/user/694547078454989/posts
 
-- 🍉 个人微信：yang657850144
+- 🍉 wechat：yang657850144
 
 ## My Github Status 🦸
 
