@@ -18,6 +18,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=robbiemie&layout=compact&theme=vue&card_width=445&hide_border=true)
 
+![GitHub Snake dark](https://raw.githubusercontent.com/robbiemie/robbiemie/output/snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake light](https://raw.githubusercontent.com/robbiemie/robbiemie/output/snake.svg#gh-light-mode-only)
 
 
 ## Thank you for the visit.
